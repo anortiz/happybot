@@ -1,0 +1,28 @@
+{
+  "name": "HappyBot",
+  "version": "1.0.0",
+  "description": "Chat bot de la felicidad <3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Andrew Ortiz",
+    "url": "https://github.com/anortiz"
+  },
+  "contributors": [
+    {
+      "name": "Mauricio Macri",
+      "email": "macri@gato.com.ar"
+    }
+  ],
+  "keywords": [
+    "chatbot",
+    "happy"
+  ],
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "hangouts-bot": "^0.2.1"
+  }
+}
